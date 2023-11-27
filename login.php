@@ -18,7 +18,7 @@ require __DIR__ . '/../src/bootstrap.php';
         </div>
 
         <section>
-            <button type="submit">Login</button>
+            <button type="submit">LOGIN</button>
             <a href="register.php">Register</a>
         </section>
     </form>
